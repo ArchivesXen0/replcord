@@ -11,7 +11,7 @@ WEBHOOK_URL = 'https://discord.com/api/webhooks/1258282659809988709/cvHr3p1NfybM
 AVATAR_URL = 'https://i.imgur.com/7bM6vSk.png'  # Replace with the URL of your uploaded image
 
 # Function to send webhook message
-def send_webhook(message, username="Replcord Bot", avatar_url=AVATAR_URL):
+def send_webhook(message, username="Giveaway Bot", avatar_url=AVATAR_URL):
     data = {
         'content': message,
         'username': username,
