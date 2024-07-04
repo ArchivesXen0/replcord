@@ -1,0 +1,11 @@
+# replcord
+Sourcecode to replcords software. Do not publish or redistribute without explicit permission.
+ReplCord is in early alpha,  it includes commands like >send, which allows you to send message from a python script to discord!
+Another command is >redeem [platform] [amount] [username], it will display a fake giveaway winner. 
+CMD LIST:
+>redeem [platform] [amount] [username]
+>send [username] [msg]
+
+
+
+
